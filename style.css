@@ -1,8 +1,23 @@
+<<<<<<< HEAD
 
 @media screen and (max-weight :200px) {
 div{ width: 200px;
 
 }
+=======
+.tartalom{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    text-align: center;
+    margin: auto;
+    width: 90%;
+}
+
+.tartalom p{
+    text-align: left;
+}
+
+>>>>>>> 35490678b6e202bb84a2c3bc576a9e165f2ed218
 *{
     box-sizing: border-box;
 }
