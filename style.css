@@ -6,6 +6,10 @@
     width: 90%;
 }
 
+.menu{
+    margin: auto;
+}
+
 .tartalom p{
     text-align: left;
 }
@@ -25,4 +29,19 @@ div{
 
 footer{
     background-color: #442D2D;
+}
+
+h1{
+    font-style: italic;
+    color: red;
+}
+
+h2{
+    font-style: italic;
+    color: red;
+}
+
+h3{
+    font-style: italic;
+    color: red;
 }
