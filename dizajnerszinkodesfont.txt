@@ -1,0 +1,5 @@
+színkód:
+
+body:6f5555
+div: 76595A
+lábjegyzet: 442D2D
