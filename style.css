@@ -1,0 +1,11 @@
+.tartalom{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    text-align: center;
+    margin: auto;
+    width: 90%;
+}
+
+.tartalom p{
+    text-align: left;
+}
