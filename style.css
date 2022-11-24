@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#6f5555;
+    font-family: 'Oswald', sans-serif;
+}
+
+div{
+    background-color: #76595A;
+}
+
+footer{
+    background-color: #442D2D;
+}
