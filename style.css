@@ -6,6 +6,22 @@
     width: 90%;
 }
 
+h1, h2{
+    color: whitesmoke;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    border-bottom:5px black solid;
+    border-top:5px black solid;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+
 .menu{
     margin: auto;
 }
@@ -19,16 +35,16 @@
 }
 
 body{
-    background-color:#6f5555;
+    background-color:#3C4048;
     font-family: 'Oswald', sans-serif;
 }
 
 div{
-    background-color: #76595A;
+    background-color: #B2B2B2;
 }
 
 footer{
-    background-color: #442D2D;
+    background-color: #B2B2B2;
 
 }
 @media screen and (max-width: 480px) {
