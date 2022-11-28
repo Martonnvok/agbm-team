@@ -27,16 +27,12 @@ h3{
     text-align: center;
 }
 
-p{
-    font-size: 20px;
-    text-align: justify;
-}
-
 .menu{
     margin: auto;
 }
 
 .tartalom p{
+    font-size: 20px;
     text-align: left;
 }
 
