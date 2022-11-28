@@ -103,6 +103,10 @@ img{
     max-width: 500px;
 }
 
+article p {
+    padding: 1em;
+    text-align:justify;
+}
 
 span{
     color: #2BD6B4;
