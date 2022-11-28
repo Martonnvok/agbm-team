@@ -22,6 +22,16 @@ h2{
     text-align: center;
 }
 
+h3{
+    font-size: 25px;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
 .menu{
     margin: auto;
 }
@@ -41,6 +51,7 @@ body{
 
 div{
     background-color: #B2B2B2;
+    border: 5px solid #3C4048;
 }
 
 footer{
@@ -100,7 +111,8 @@ nav .start-about, a:nth-child(3):hover~.animation{
 
 
 img{
-    max-width: 500px;
+    max-width: 250px;
+    width: 100%;
 }
 
 article p {
