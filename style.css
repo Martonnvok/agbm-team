@@ -99,6 +99,10 @@ nav .start-about, a:nth-child(3):hover~.animation{
 }
 
 
+img{
+    max-width: 500px;
+}
+
 
 span{
     color: #2BD6B4;
@@ -142,5 +146,6 @@ div{
     background-color: #76595A;
 }
 
-
 }
+
+
