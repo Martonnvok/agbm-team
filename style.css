@@ -1,7 +1,6 @@
 .tartalom{
     display: grid;
     grid-template-columns: 3fr 1fr;
-    text-align: center;
     margin: auto;
     width: 90%;
 }
@@ -25,6 +24,7 @@ h2{
 h3{
     font-size: 25px;
     text-align: center;
+    margin-bottom: 0px;
 }
 
 .menu{
@@ -33,7 +33,8 @@ h3{
 
 .tartalom p{
     font-size: 20px;
-    text-align: left;
+    text-align: justify;
+    margin: 0px;
 }
 
 *{
@@ -48,6 +49,7 @@ body{
 div{
     background-color: #B2B2B2;
     border: 5px solid #3C4048;
+    border-radius: 25px;
 }
 
 footer{
@@ -106,9 +108,16 @@ nav .start-about, a:nth-child(3):hover~.animation{
 }
 
 
+
 img{
-    max-width: 250px;
-    width: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+  max-width: 300px;
+  max-height: 450px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
 }
 
 article p {
